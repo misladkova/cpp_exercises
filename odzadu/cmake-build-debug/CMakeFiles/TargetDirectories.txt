@@ -1,0 +1,3 @@
+C:/miska/miska_cpp/odzadu/cmake-build-debug/CMakeFiles/odzadu.dir
+C:/miska/miska_cpp/odzadu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/miska/miska_cpp/odzadu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/miska/miska_cpp/sumpyramida/cmake-build-debug/CMakeFiles/sumpyramida.dir
+C:/miska/miska_cpp/sumpyramida/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/miska/miska_cpp/sumpyramida/cmake-build-debug/CMakeFiles/rebuild_cache.dir

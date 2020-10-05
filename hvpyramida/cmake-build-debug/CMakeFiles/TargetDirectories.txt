@@ -1,0 +1,3 @@
+C:/miska/miska_cpp/hvpyramida/cmake-build-debug/CMakeFiles/hvpyramida.dir
+C:/miska/miska_cpp/hvpyramida/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/miska/miska_cpp/hvpyramida/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/miska/miska_cpp/papagaj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/miska/miska_cpp/papagaj/cmake-build-debug/CMakeFiles/papagaj.dir
+C:/miska/miska_cpp/papagaj/cmake-build-debug/CMakeFiles/edit_cache.dir

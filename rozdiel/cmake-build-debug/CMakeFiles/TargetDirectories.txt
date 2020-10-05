@@ -1,0 +1,3 @@
+C:/miska/miska_cpp/rozdiel/cmake-build-debug/CMakeFiles/rozdiel.dir
+C:/miska/miska_cpp/rozdiel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/miska/miska_cpp/rozdiel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

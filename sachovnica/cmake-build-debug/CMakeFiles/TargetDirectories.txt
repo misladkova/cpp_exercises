@@ -1,0 +1,3 @@
+C:/miska/miska_cpp/sachovnica/cmake-build-debug/CMakeFiles/sachovnica.dir
+C:/miska/miska_cpp/sachovnica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/miska/miska_cpp/sachovnica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
